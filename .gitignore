@@ -20,7 +20,9 @@ Plugins/*/DerivedDataCache/
 Platforms/
 Plugins/*/Platforms/
 
-# Asset backups and autosaves
+# UE Assets (binary files - should not be in git)
+*.uasset
+*.umap
 *.uasset.bak
 *.umap.bak
 *.uasset.backup
