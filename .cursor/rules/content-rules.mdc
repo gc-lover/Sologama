@@ -1,0 +1,28 @@
+---
+alwaysApply: false
+---
+# Content Creation Rules
+
+## Asset Standards
+- **Optimization**: All assets must be optimized for target platforms
+- **Naming**: Consistent naming conventions across all assets
+- **Documentation**: Asset usage and creation notes must be documented
+- **Versioning**: Assets must follow version control best practices
+
+## Visual Style Guidelines
+- **Anime Aesthetic**: Maintain consistent anime-inspired art style
+- **Color Palette**: Use approved color schemes for different elements
+- **Proportions**: Character and object proportions must be consistent
+- **Quality**: High-quality textures and models for all visible assets
+
+## Audio Standards
+- **Consistency**: Sound effects must match the anime aesthetic
+- **Compression**: Optimized audio compression for different platforms
+- **Mixing**: Proper audio levels and balance across all sounds
+- **Accessibility**: Audio cues for important game events
+
+## Localization Requirements
+- **Text Length**: Plan for text expansion in different languages
+- **Cultural Adaptation**: Content must be adaptable for different cultures
+- **Font Support**: Ensure fonts support target languages
+- **Context Preservation**: Maintain meaning across translations

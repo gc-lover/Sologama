@@ -1,0 +1,28 @@
+---
+alwaysApply: false
+---
+# Game Design Rules
+
+## Ability Design Principles
+- **Clear Purpose**: Every ability must have a distinct, understandable purpose
+- **Resource Cost**: Abilities must consume appropriate resources (mana, energy, etc.)
+- **Cooldown Balance**: Cooldowns must feel fair but not restrictive
+- **Visual Clarity**: Effects must be clearly visible and understandable
+
+## Character Balance
+- **Power Curve**: Character power must scale appropriately with level
+- **Counterplay**: Every character must have viable counters
+- **Synergy**: Character abilities should synergize with each other
+- **Accessibility**: Characters must be accessible to different skill levels
+
+## Level Design Standards
+- **Flow**: Levels must have clear progression and navigation
+- **Challenge Scaling**: Difficulty must increase appropriately
+- **Reward Timing**: Rewards must be well-timed and satisfying
+- **Replayability**: Levels should offer multiple paths and approaches
+
+## Quest Design Guidelines
+- **Narrative Cohesion**: Quests must fit the overall story
+- **Objective Clarity**: Quest goals must be clearly communicated
+- **Reward Appropriateness**: Rewards must match quest difficulty
+- **Branching Options**: Quests should offer meaningful choices

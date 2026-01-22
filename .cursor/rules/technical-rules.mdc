@@ -1,0 +1,28 @@
+---
+alwaysApply: false
+---
+# Technical Development Rules
+
+## Code Architecture
+- **SOLID Principles**: Apply SOLID principles to all code
+- **Separation of Concerns**: Keep different responsibilities separate
+- **Dependency Injection**: Use dependency injection for testability
+- **Interface Segregation**: Prefer interfaces over concrete classes
+
+## Unreal Engine Best Practices
+- **UCLASS Usage**: Proper UCLASS macro usage with appropriate specifiers
+- **Memory Management**: Understanding of UE garbage collection
+- **Asset Loading**: Use Asset Manager for asynchronous loading
+- **Performance**: Profile and optimize performance-critical code
+
+## Code Quality Standards
+- **Naming Conventions**: Follow UE naming conventions consistently
+- **Documentation**: All public APIs must be documented
+- **Error Handling**: Proper error handling and logging
+- **Code Reviews**: All code changes require review
+
+## Testing Requirements
+- **Unit Tests**: Core systems must have unit tests
+- **Integration Tests**: System interactions must be tested
+- **Performance Tests**: Critical paths must be performance tested
+- **Regression Tests**: Bug fixes must include regression tests

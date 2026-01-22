@@ -1,6 +1,34 @@
 ---
 alwaysApply: true
 ---
-# Overview
+# Evolution Fantasy Development Rules
 
-Insert overview text here. The agent will only see this should they choose to apply the rule.
+## Core Principles
+- **SOLID Architecture**: Follow SOLID principles for all code
+- **Max 350 lines per class**: Keep classes focused and maintainable
+- **Unreal Engine Best Practices**: Use UE5 patterns and conventions
+- **Documentation**: All public methods must be documented
+
+## Code Quality
+- **SOLID Principles**: Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion
+- **Clean Architecture**: Separate business logic from framework code
+- **Testable Code**: Write code that can be easily unit tested
+- **Performance Aware**: Consider performance implications of all changes
+
+## Unreal Engine Specific
+- **UCLASS/USTRUCT**: Proper use of UE macros
+- **GC Awareness**: Understand garbage collection patterns
+- **Asset Management**: Use Asset Manager for loading
+- **Networking**: Design for single-player but extensible to multiplayer
+
+## Game Design Rules
+- **Balance First**: All mechanics must be balanced
+- **Player Feedback**: Every action needs clear feedback
+- **Progressive Difficulty**: Content scales with player progression
+- **Replayability**: Multiple paths and choices
+
+## Development Workflow
+- **TDD Approach**: Test-Driven Development where possible
+- **Documentation Updates**: Update docs with code changes
+- **Code Reviews**: All changes require review
+- **Continuous Integration**: Automated testing and validation
