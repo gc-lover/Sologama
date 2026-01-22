@@ -254,10 +254,36 @@ steam_settings/
 *.wmv
 
 # ===========================================
-# PROJECT SPECIFIC (Customize for your project)
+# PROJECT SPECIFIC (Evolution Fantasy)
 # ===========================================
 
-# Add project-specific ignores here
-# Example:
-# MyProject/SpecialFolder/
-# *.custom_extension
+# Evolution Fantasy specific files
+EvolutionFantasy/Saved/
+EvolutionFantasy/Plugins/*/Saved/
+
+# Documentation cache
+docs/**/*.cache
+docs/**/*.tmp
+
+# Cursor IDE specific
+.cursor/commands/cache/
+.cursor/rules/cache/
+.cursor/workflows/cache/
+
+# Development artifacts
+*.development
+*.playtest
+build_artifacts/
+
+# Local game saves (for testing)
+LocalSaves/
+TestSaves/
+
+# Performance profiling
+*.perf
+*.profile
+Profiling/
+
+# Backup files
+*.evolution_backup
+*.world_backup
