@@ -13,8 +13,8 @@
 Следуйте инструкциям в [setup.md](docs/development/setup.md)
 
 ### 3. Выберите задачу
-- Посмотрите открытые [Issues](https://github.com/gc-lover/EvolutionFantasy/issues)
-- Проверьте [Project Board](https://github.com/gc-lover/EvolutionFantasy/projects)
+- Посмотрите **[GitHub Project](https://github.com/users/gc-lover/projects/3/views/1)** для текущих задач
+- Проверьте открытые [Issues](https://github.com/gc-lover/EvolutionFantasy/issues)
 - Начните с задач с меткой `good first issue`
 
 ## 📋 Правила разработки

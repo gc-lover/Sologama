@@ -113,6 +113,12 @@ docs/                        # Документация проекта
 - [ ] Контент для энда
 - [ ] Оптимизация
 
+## Управление проектом
+
+- **[GitHub Project](https://github.com/users/gc-lover/projects/3/views/1)** - доска с задачами и прогрессом разработки
+- **[Issues](https://github.com/gc-lover/EvolutionFantasy/issues)** - багрепорты и предложения фич
+- **[Discussions](https://github.com/gc-lover/EvolutionFantasy/discussions)** - обсуждения и вопросы
+
 ## Контрибьютинг
 
 Мы приветствуем вклад в развитие проекта! Ознакомьтесь с:
