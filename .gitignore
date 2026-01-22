@@ -32,6 +32,11 @@ Plugins/*/Platforms/
 Content/**/*.backup
 Content/**/*.bak
 
+# Localization binary files
+*.locres
+*.locres.bak
+*.archive
+
 # Shader and material caches
 ShaderCache/
 MaterialCache/
